@@ -17,7 +17,6 @@ for rand in range(0, symbols_type):
     password.append(random.choice(symbols))
 #print(password)
 random.shuffle(password)
-#print(password)
 
 req_pass=""
 for rand in password:
