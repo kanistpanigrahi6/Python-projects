@@ -1,5 +1,5 @@
 print("WELCOME TO THE PIZZA ORDER")
-size=input("type the size u want.. s for small,m for medium and l for large \n")
+size=input("type the size u want. s for small,m for medium and l for large \n")
 pepperoni=input("If u want to pepperoni type y for yes and n for no \n")
 extra_cheese=input("Do u want extra cheese type y for yes and n for no \n")
 bill=0
