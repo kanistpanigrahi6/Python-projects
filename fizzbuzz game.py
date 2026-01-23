@@ -1,4 +1,4 @@
-# Create a loop with For and Range to go from 1 to 100.
+
 for number in range(1, 101):
     # First check if the number is divisible by both 3 and 5.
     if number % 3 == 0 and number % 5 == 0:
